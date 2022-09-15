@@ -223,7 +223,8 @@ figcaption {
   align-items: center;
   text-align: center;
 }
-.wf-section {
+
+.fullwidthimg {
     margin-top: 43px;
     /* width: 105%; */
     position: relative;
