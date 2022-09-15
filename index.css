@@ -2358,6 +2358,7 @@ figcaption {
   font-weight: 400;
   text-align: left;
   text-transform: uppercase;
+  width: 46%;
 }
 
 .heading-jumbo-small {
@@ -4266,6 +4267,7 @@ figcaption {
   -ms-grid-row: 7;
   -ms-grid-column: 1;
   grid-area: Area;
+  
 }
 
 #w-node-_09ca36a5-fae4-bce6-3492-250869e6e759-88709470 {
